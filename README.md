@@ -68,13 +68,14 @@ Instead of simply summarizing a document, ReflexionOS finds risky clauses, propo
 ![Agent Analysis](assets/agent-analysis.png)
 
 ### Referee Scorecards
-![Referee Scorecards](assets/referee-scorecards.png)
+![History](assets/history.png)
+
 
 ### Export Report
 ![Export Report](assets/export-report.png)
 
 ### History
-![History](assets/history.png)
+![Referee Scorecards](assets/referee-scorecards.png)
 
 ---
 
