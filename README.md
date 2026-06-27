@@ -38,6 +38,64 @@ uvicorn app:app --reload --port 8000
 ```
 
 ---
+# ReflexionOS
+
+**Adversarial Document Intelligence Platform**
+
+> A penetration test for legal and enterprise documents.
+
+ReflexionOS is an AI-powered document intelligence platform that stress-tests contracts, NDAs, policies, and enterprise agreements using a three-agent reasoning workflow: **Attacker → Defender → Referee**.
+
+Instead of simply summarizing a document, ReflexionOS finds risky clauses, proposes safer alternatives, validates evidence, scores risk, and generates export-ready reports.
+
+---
+
+## Screenshots
+
+### Landing Page
+![Landing Page](assets/home.png)
+
+### Running Analysis
+![Running Analysis](assets/running-analysis.png)
+
+### Executive Dashboard
+![Executive Dashboard](assets/executive-dashboard.png)
+
+### Document Viewer
+![Document Viewer](assets/document-viewer.png)
+
+### Agent Analysis
+![Agent Analysis](assets/agent-analysis.png)
+
+### Referee Scorecards
+![Referee Scorecards](assets/referee-scorecards.png)
+
+### Export Report
+![Export Report](assets/export-report.png)
+
+### History
+![History](assets/history.png)
+
+---
+
+## Key Features
+
+- Multi-agent document review system
+- Attacker agent for adversarial risk discovery
+- Defender agent for mitigation and safer clause suggestions
+- Referee agent for evidence scoring and verdicts
+- Executive dashboard with risk score and summary
+- Clause-level document viewer
+- Risk distribution analytics
+- Search and filter for findings
+- Replayable analysis history
+- PDF, JSON, and CSV export
+- Mock provider for offline demos
+- Optional AWS Bedrock provider support
+
+---
+
+
 ## Architecture
 
 ```
