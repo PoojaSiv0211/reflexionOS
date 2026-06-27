@@ -38,46 +38,6 @@ uvicorn app:app --reload --port 8000
 ```
 
 ---
-## 📸 Screenshots
-
-### Landing Page
-![Landing Page](assets/home.png)
-
----
-
-### Running Analysis
-![Running Analysis](assets/running-analysis.png)
-
----
-
-### Executive Dashboard
-![Executive Dashboard](assets/executive-dashboard.png)
-
----
-
-### Document Viewer
-![Document Viewer](assets/document-viewer.png)
-
----
-
-### Agent Analysis
-![Agent Analysis](assets/agent-analysis.png)
-
----
-
-### Referee Scorecards
-![Referee Scorecards](assets/referee-scorecards.png)
-
----
-
-### Export Report
-![Export Report](assets/export-report.png)
-
----
-
-### History
-![History](assets/history.png)---
-
 ## Architecture
 
 ```
