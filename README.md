@@ -72,11 +72,12 @@ Instead of simply summarizing a document, ReflexionOS finds risky clauses, propo
 
 
 ### Export Report
-![Referee Scorecards](assets/referee-scorecards.png)
+![Export Report](assets/export-report.png)
+
 
 ### History
+![Referee Scorecards](assets/referee-scorecards.png)
 
-![Export Report](assets/export-report.png)
 
 ---
 
